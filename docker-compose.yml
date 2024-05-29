@@ -1,0 +1,9 @@
+version: '3.8'
+
+# Services
+services:
+
+  # Setting Spark Master
+  spark-master:
+    container_name: spark-master
+    
